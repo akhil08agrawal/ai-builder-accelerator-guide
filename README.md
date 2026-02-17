@@ -1,5 +1,7 @@
 # AI Builder Accelerator Guide
 
+> Created by **Akhil Agrawal** — [LinkedIn](https://www.linkedin.com/in/akhil08/) | [Website](https://akhil.theimperfectpm.com/) | [Twitter](https://x.com/AkhilAgrawal08) | [Email](mailto:akhil08.iitkgp@gmail.com)
+
 Apply to top AI accelerators in hours, not weeks.
 
 A personal research agent analyzed the top 8 accelerators for AI builders, producing two documents per program: **what they ask** (application questions) and **what makes them special** (quirks, philosophy, tips). These were then combined with a master idea document and fed to [Claude Code](https://claude.ai/claude-code) to generate complete application drafts.
